@@ -1,0 +1,55 @@
+html {
+    background-color: #000000;
+}
+#toppart {
+    height: 90px;
+}
+#toppart h1 {
+    padding-left: 35%;
+    padding-top: 20px;
+}
+#toppart img {
+    float: left;
+}
+body {
+    width: 80%;
+    margin-left: 10%;
+    margin-right:10%;
+    background-color: #FFFFFF;
+    color: #000000;
+}
+#copyright {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #999999;
+    color: #FFFFFF;
+    text-align: center;
+}
+table {
+    text-align: left;
+}
+hr#foraddress {
+    color: #999999;
+}
+nav a:link,a:visited {
+    width: 120px;
+    display: block;
+    background-color: #999999;
+    padding: 4px;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-align: center;
+    font-weight: bold;
+}
+nav a:hover {
+    background-color: #cc0000;
+}
+nav ul {
+    float: right;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    float: left;
+}
